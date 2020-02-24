@@ -1,0 +1,26 @@
+{
+  "name": "javascript-library",
+  "version": "1.0.0",
+  "description": "get a random membership name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoTseng/RandomMemberName.git"
+  },
+  "keywords": [
+    "radom\u001b[D\u001b[D\u001b[Dn\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cdom\u001b[2~",
+    "name"
+  ],
+  "author": "Marco Tseng <tseng79622@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcoTseng/RandomMemberName/issues"
+  },
+  "homepage": "https://github.com/MarcoTseng/RandomMemberName#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
