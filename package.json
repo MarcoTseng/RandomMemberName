@@ -1,5 +1,5 @@
 {
-  "name": "Marco-Test-Library",
+  "name": "marco-test-library",
   "version": "1.0.0",
   "description": "get a random membership name",
   "main": "src/index.js",
